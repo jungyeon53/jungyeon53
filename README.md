@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Wecome!&fontColor=333333&fontSize=90)
 
-<h3 align="center">안녕하세요! 풀스택 개발자 Kim JungYeon 입니다!👋</h3>
+<h2 align="center">안녕하세요! 풀스택 개발자 Kim JungYeon 입니다!👋</h2>
 
 <h4 align="center">
   <a href="https://jungyeonprotfolio.netlify.app/">Portfolio Link</a>
@@ -8,8 +8,9 @@
 
 <h3 align="center">
   Project
+  -------------
 </h3>
----
+
 <!--
 **jungyeon53/jungyeon53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
