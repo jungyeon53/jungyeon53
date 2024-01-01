@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Wecome!&fontColor=FFFFFF&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Wecome!&fontColor=D3D3D3&fontSize=90)
 
 ### Hi there 👋
 
