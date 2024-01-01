@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Wecome!jungyeongithub%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Wecome!&fontColor=FFFFFF%20render&fontSize=90)
 ### Hi there 👋
 
 <!--
