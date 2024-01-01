@@ -9,7 +9,7 @@
 <h3 align="center">
   Project
 </h3>
-*****
+---
 <!--
 **jungyeon53/jungyeon53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
