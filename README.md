@@ -1,21 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Wecome!&fontColor=333333&fontSize=90)
 
-<h2 align="center">안녕하세요! 풀스택 개발자 Kim JungYeon 입니다!👋</h2>
-
-<h4 align="center">
+<h2 align="center">안녕하세요! 풀스택 개발자 Kim JungYeon 입니다!👋 
+<br/>
+<br/>
   <a href="https://jungyeonprotfolio.netlify.app/">[Portfolio Link]</a>
-</h4>
+  <br/>
+</h2>
 
-<p align="center">
-개발을 해보고 싶다는 막연한 생각만 가지고 있다가 
-
-홍보팀으로 일하면서 홈페이지를 직접 개발하고 싶다는 생각을 갖게 되었습니다. 
-
-내가 만든 홈페이지의 서비스를 사람들이 사용하는 것을 보면 보람을 많이 느낄 것 같습니다.
-</p>
-
-
-* * *
 
 <h3 align="center">Team Projuect</h3>
 
@@ -32,8 +23,6 @@
 <p align="center">
 (SPRINGBOOT + REACT 를 활용한 골프예약, 골프클럽 쇼핑몰)
 </p>
-
-* * *
 
 <h3 align="center">Personal Project</h3>
 
