@@ -3,13 +3,11 @@
 <h2 align="center">안녕하세요! 풀스택 개발자 Kim JungYeon 입니다!👋</h2>
 
 <h4 align="center">
-  <a href="https://jungyeonprotfolio.netlify.app/">Portfolio Link</a>
+  <a href="https://jungyeonprotfolio.netlify.app/">[Portfolio Link]</a>
 </h4>
 
-<h3 align="center">
-  Project
-  -------------
-</h3>
+<h3 align="center">Project</h3>
+---
 
 <!--
 **jungyeon53/jungyeon53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
