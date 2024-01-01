@@ -2,9 +2,9 @@
 
 <h3 align="center">안녕하세요! 풀스택 개발자 Kim JungYeon 입니다!👋</h3>
 
-<a align="center" href="(https://jungyeonprotfolio.netlify.app/)">
-  [Portfolio Link]
-</a>
+<p align="center">
+  <a href="https://jungyeonprotfolio.netlify.app/">Portfolio Link</a>
+</p>
 
 <p align="center">
   Project
