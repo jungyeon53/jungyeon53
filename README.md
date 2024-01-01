@@ -27,7 +27,8 @@
 <h3 align="center">Personal Project</h3>
 
 <h4 align="center">현대자동차
-  <a href="https://jungyeonprotfolio.netlify.app/">[GitHub Link]</a>
+  <a href="https://hyundaicar.netlify.app/">[Link]</a>
+  <a href="https://hyundaicar.netlify.app/">[GitHub Link]</a>
 </h4>
 <p align="center">
 (REACT, BOOTSTRAP,SWIPER 의 반응형 홈페이지)
