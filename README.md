@@ -11,7 +11,7 @@
 <h3 align="center">Team Projuect</h3>
 
 <h4 align="center">제주어때
-  <a href="https://jungyeonprotfolio.netlify.app/">[GitHub Link]</a>
+  <a href="https://github.com/jungyeon53/semiJeju">[GitHub Link]</a>
 </h4>
 <p align="center">
 (JAVA + JSP + MARIADB 를 활용한 숙박예약 플랫폼)
