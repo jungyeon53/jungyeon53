@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=87CEEB&height=200&section=header&text=Wecome!&fontColor=333333&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=87CEEB&height=200&section=header&text=Welcome!&fontColor=333333&fontSize=90)
 
 <h2 align="center">안녕하세요! 풀스택 개발자 Kim JungYeon 입니다!👋 
 <br/>
