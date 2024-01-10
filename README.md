@@ -35,21 +35,19 @@
 (REACT, BOOTSTRAP,SWIPER 의 반응형 홈페이지)
 </p>
 
-
-<h4 align="center">TODOLIST
-  <a href="https://jytodolist.netlify.app/">[TodoList Link]</a>
-  <a href="https://github.com/jungyeon53/Todo-App">[GitHub Link]</a>
-</h4>
-<p align="center">(REACT로 만든 TODOLIST)
-</p>
-
-
 <h4 align="center">SK브로드밴드
   <a href="https://skbro.netlify.app/">[SK Link]</a>
   <a href="https://github.com/jungyeon53/2023-11-sk">[GitHub Link]</a>
 </h4>
 <p align="center">
 (REACT로 만든 컴포넌트 연습)
+</p>
+
+<h4 align="center">TODOLIST
+  <a href="https://jytodolist.netlify.app/">[TodoList Link]</a>
+  <a href="https://github.com/jungyeon53/Todo-App">[GitHub Link]</a>
+</h4>
+<p align="center">(REACT로 만든 TODOLIST)
 </p>
 
 <h2 align="center">MainSkills👩🏻‍💻
