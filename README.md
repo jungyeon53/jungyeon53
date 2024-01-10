@@ -37,7 +37,7 @@
 
 <h4 align="center">SK브로드밴드
   <a href="https://skbro.netlify.app/">[SK Link]</a>
-  <a href="https://github.com/jungyeon53/2023-11-sk">[GitHub Link]</a>
+  <a href="https://github.com/jungyeon53/skReact">[GitHub Link]</a>
 </h4>
 <p align="center">
 (REACT로 만든 컴포넌트 연습)
