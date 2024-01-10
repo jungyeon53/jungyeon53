@@ -11,6 +11,7 @@
 <h3 align="center">Team Projuect</h3>
 
 <h4 align="center">제주어때
+  <a href="http://jeju.imfreepass.com/">[JEJU Link]</a>
   <a href="https://github.com/jungyeon53/semiJeju">[GitHub Link]</a>
 </h4>
 <p align="center">
