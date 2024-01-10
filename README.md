@@ -10,7 +10,7 @@
 
 <h3 align="center">Team Projuect</h3>
 
-<h4 align="center">제주어때
+<h4 align="center">제주어때 
   <a href="http://jeju.imfreepass.com/">[JEJU Link]</a>
   <a href="https://github.com/jungyeon53/semiJeju">[GitHub Link]</a>
 </h4>
@@ -29,7 +29,7 @@
 
 <h4 align="center">현대자동차
   <a href="https://hyundaicar.netlify.app/">[Link]</a>
-  <a href="https://hyundaicar.netlify.app/">[GitHub Link]</a>
+  <a href="https://github.com/jungyeon53/hyundaicar">[GitHub Link]</a>
 </h4>
 <p align="center">
 (REACT, BOOTSTRAP,SWIPER 의 반응형 홈페이지)
@@ -37,14 +37,16 @@
 
 
 <h4 align="center">TODOLIST
-  <a href="https://jungyeonprotfolio.netlify.app/">[GitHub Link]</a>
+  <a href="https://jytodolist.netlify.app/">[TodoList Link]</a>
+  <a href="https://github.com/jungyeon53/Todo-App">[GitHub Link]</a>
 </h4>
 <p align="center">(REACT로 만든 TODOLIST)
 </p>
 
 
 <h4 align="center">SK브로드밴드
-  <a href="https://jungyeonprotfolio.netlify.app/">[GitHub Link]</a>
+  <a href="https://skbro.netlify.app/">[SK Link]</a>
+  <a href="https://github.com/jungyeon53/2023-11-sk">[GitHub Link]</a>
 </h4>
 <p align="center">
 (REACT로 만든 컴포넌트 연습)
