@@ -18,8 +18,8 @@
 (JAVA + JSP + MARIADB 를 활용한 숙박예약 플랫폼)
 </p>
 
-<h4 align="center">골프의 민족 (파이널 프로젝트 진행 중 입니다.)
-  <a href="https://jungyeonprotfolio.netlify.app/">[GitHub Link]</a>
+<h4 align="center">골프의 민족 (배포만 완료된 상태입니다.)
+  <a href="http://54.180.101.194/">[Link]</a>
 </h4>
 <p align="center">
 (SPRINGBOOT + REACT 를 활용한 골프예약, 골프클럽 쇼핑몰)
