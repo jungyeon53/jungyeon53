@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=87CEEB&height=200&section=header&text=Welcome!&fontColor=333333&fontSize=90)
 
-<h2 align="center">안녕하세요! 백엔드 개발자 Kim JungYeon 입니다!👋 
-<br/>
-<br/>
-  <a href="https://jungyeonprotfolio.netlify.app/">[Portfolio Link]</a><br />
+<h3 align="center">안녕하세요! 백엔드 개발자 Kim JungYeon 입니다!👋 
+<h2></h2>
+  <h3 align="center">
+  <a href="https://jungyeonprotfolio.netlify.app/">[Portfolio Link]</a>
   <a href="https://velog.io/@jungyeon53/posts">[Velog Link]</a>
-  <br/>
-</h2>
+  </h3>
+</h3>
 
 
 <h3 align="center">Team Projuect</h3>
