@@ -3,7 +3,7 @@
 <h2 align="center">안녕하세요! 백엔드 개발자 Kim JungYeon 입니다!👋 
 <br/>
 <br/>
-  <a href="https://jungyeonprotfolio.netlify.app/">[Portfolio Link]</a>
+  <a href="https://jungyeonprotfolio.netlify.app/">[Portfolio Link]</a><br />
   <a href="https://velog.io/@jungyeon53/posts">[Velog Link]</a>
   <br/>
 </h2>
