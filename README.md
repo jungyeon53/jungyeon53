@@ -1,14 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=87CEEB&height=200&section=header&text=Welcome!&fontColor=333333&fontSize=90)
 
-<h2 align="center">안녕하세요! 풀스택 개발자 Kim JungYeon 입니다!👋 
+<h2 align="center">안녕하세요! 백엔드 개발자 Kim JungYeon 입니다!👋 
 <br/>
 <br/>
   <a href="https://jungyeonprotfolio.netlify.app/">[Portfolio Link]</a>
+  <a href="https://velog.io/@jungyeon53/posts">[Velog Link]</a>
   <br/>
 </h2>
 
 
 <h3 align="center">Team Projuect</h3>
+
+<h4 align="center">골프의 민족
+  <a href="http://13.125.136.122">[Golf Link]</a>
+  <a href="https://github.com/jungyeon53/Golf">[GitHub Link]</a>
+</h4>
+<p align="center">
+(SPRINGBOOT + REACT 를 활용한 골프예약, 골프클럽 쇼핑몰)
+</p>
 
 <h4 align="center">제주어때 
   <a href="http://jeju.imfreepass.com/">[JEJU Link]</a>
@@ -18,22 +27,8 @@
 (JAVA + JSP + MARIADB 를 활용한 숙박예약 플랫폼)
 </p>
 
-<h4 align="center">골프의 민족 (배포만 완료된 상태입니다.)
-  <a href="http://54.180.101.194/">[Link]</a>
-</h4>
-<p align="center">
-(SPRINGBOOT + REACT 를 활용한 골프예약, 골프클럽 쇼핑몰)
-</p>
 
 <h3 align="center">Personal Project</h3>
-
-<h4 align="center">현대자동차
-  <a href="https://hyundaicar.netlify.app/">[Link]</a>
-  <a href="https://github.com/jungyeon53/hyundaicar">[GitHub Link]</a>
-</h4>
-<p align="center">
-(REACT, BOOTSTRAP,SWIPER 의 반응형 홈페이지)
-</p>
 
 <h4 align="center">SK브로드밴드
   <a href="https://skbro.netlify.app/">[SK Link]</a>
@@ -41,6 +36,14 @@
 </h4>
 <p align="center">
 (REACT로 만든 컴포넌트 연습)
+</p>
+
+<h4 align="center">현대자동차
+  <a href="https://hyundaicar.netlify.app/">[Link]</a>
+  <a href="https://github.com/jungyeon53/hyundaicar">[GitHub Link]</a>
+</h4>
+<p align="center">
+(REACT, BOOTSTRAP,SWIPER 의 반응형 홈페이지)
 </p>
 
 <h4 align="center">TODOLIST
@@ -85,6 +88,8 @@
   <img alt="OracleDB" src="https://img.shields.io/badge/Oracle_DB-F80000?&style=for-the-badge&logo=Oracle&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=87CEEB&height=200&section=footer&fontColor=333333&fontSize=90)
 
 
 
