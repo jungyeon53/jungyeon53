@@ -89,8 +89,14 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeon53&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungyeon53)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">Most Used👩🏻‍💼
+<br/>
+</h2>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeon53&layout=compact&langs_count=10" alt="Top Languages">
+  </a>
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=87CEEB&height=200&section=footer&fontColor=333333&fontSize=90)
 
