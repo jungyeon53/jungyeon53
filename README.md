@@ -8,7 +8,7 @@
 
 
 
-<h3 align="center">Team Projuect</h3>
+<h3 align="center">Team Project</h3>
 
 <h4 align="center">골프의 민족
   <a href="http://13.125.136.122">[Golf Link]</a>
