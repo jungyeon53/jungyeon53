@@ -91,11 +91,19 @@
 <h2 align="center">Most Used👩🏻‍💼
 <br/>
 </h2>
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF2FBC&title_bg=%23555555&icon=apachespark.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+
+</div>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungyeon53&layout=compact&langs_count=10" alt="Top Languages">
   </a>
+  
 </p>
+
+                                  
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=87CEEB&height=200&section=footer&fontColor=333333&fontSize=90)
 
